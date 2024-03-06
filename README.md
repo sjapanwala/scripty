@@ -1,7 +1,7 @@
 # - 👨‍💻 ***Scripty IDE***
 ### --------------------------
 ### Current Version: V2024.01
-### [Updates](https://github.com/sjapanwala/scripty/blob/main/updates.txt){: .btn}
+### [📃- Click Me For Updates](https://github.com/sjapanwala/scripty/blob/main/updates.txt)
 ### --------------------------
 ## Welcome to Scripty! an in-terminal IDE 
 ### Built in batch, and used for batchfile. while it is built in batchfile, there are limitations but the limits are very high.
