@@ -1,7 +1,7 @@
 # - 👨‍💻 ***Scripty IDE***
 ## Welcome to Scripty! an in-terminal IDE 
 ### Built in batch, and used for batchfile. while it is built in batchfile, there are limitations but the limits are very high.
-![virustotal](![image](https://github.com/sjapanwala/scripty/assets/92124191/ca6b8d02-7c2f-4555-933c-ab6fc1291915))
+(![image](https://github.com/sjapanwala/scripty/assets/92124191/ca6b8d02-7c2f-4555-933c-ab6fc1291915)
 
 ## How To Install ⬇️
 1) Installing can either occur from Github or Google Drive or Use Terminal
@@ -31,10 +31,10 @@ start https://github.com/sjapanwala/scripty/archive/refs/heads/main.zip
 ## Images 📷
 
 ### Scripty Home Screen
-![Scripty Home Screen](![image](https://github.com/sjapanwala/scripty/assets/92124191/499a0379-2e28-4d84-99d5-bf6e31c85471))
+(![image](https://github.com/sjapanwala/scripty/assets/92124191/499a0379-2e28-4d84-99d5-bf6e31c85471)
 
 ### Scripty Code Space
-![alt text](![image](https://github.com/sjapanwala/scripty/assets/92124191/7f9275c4-17b1-4e54-a70c-3d9f8a373cdb))
+(![image](https://github.com/sjapanwala/scripty/assets/92124191/7f9275c4-17b1-4e54-a70c-3d9f8a373cdb)
 
 ## Commands and ShortCuts ```</>```
 ### ~~~ General Commands ~~~
