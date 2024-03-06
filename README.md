@@ -28,7 +28,7 @@ start https://github.com/sjapanwala/scripty/archive/refs/heads/main.zip
 - ```WIN```>Type```Command Prompt```
 2) Enter a File Name
 - Supported File Types ```.py``` ```.cmd``` ```.bat``` ```.txt``` ```.scripty```
-- Will provide with recent file names that are editable with * **Scripty***
+- Will provide with recent file names that are editable with ***Scripty***
 - Enter a Filename with its Extention
 3) Code Along!
 - Access Help with ```/help```, will show all shortcuts and commands to add to the experience.
