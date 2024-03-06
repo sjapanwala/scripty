@@ -1,1 +1,1 @@
-# scripty
+# 👨‍💻 -Scripty IDE
