@@ -7,4 +7,4 @@
 
 Version - V2024.01
 -> Initial Release
---> Read the [ReadMe.md](https://github.com/sjapanwala/scripty/blob/main/README.md) file for more information about commands.
+--> Read the ReadMe.md file for more information about commands.
