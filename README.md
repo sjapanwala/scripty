@@ -53,4 +53,5 @@ start https://github.com/sjapanwala/scripty/archive/refs/heads/main.zip
 - ```;q``` - Safely exits file
 - ```;s``` - Starts current file for testing
 - ```;d``` - Deletes last line, can be used recursively
+- ```;h``` - Saves file and takes user to homepage
 #### many more commands will be implemented as this is just V2024.01
