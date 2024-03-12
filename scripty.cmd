@@ -106,11 +106,17 @@ set /p "linecommand=%columnclr%!padded_number![40;97m│%textcolor%"
 if "%linecommand%" == ";q" goto end
 if "%linecommand%" == ";d" goto dellast
 if "%linecommand%" == ";s" start %filename% && goto numberline
+if "%linecommand%" == ";h" goto home
 :: full commands
 if "%linecommand%" == "/help" goto help
 if "%linecommand%" == "/commands" goto commands
 echo %linecommand%>>%filename%
 goto numberline
+
+:home
+echo  %brightgreen%~%brightwhite% │  File Saved... Going Home.
+timeout 2 >nul
+goto startscreen
 
 :end
 echo  %brightgreen%~%brightwhite% │ GoodBye!
@@ -164,6 +170,7 @@ echo  %brightgreen%~%brightwhite% │ %brightgreen%~~~ SHORTCUTS ~~~%brightwhite
 echo  %brightgreen%~%brightwhite% │ ";q" :---------: exits file
 echo  %brightgreen%~%brightwhite% │ ";s" :---------: starts current file
 echo  %brightgreen%~%brightwhite% │ ";d" :---------: deletes last line
+echo  %brightgreen%~%brightwhite% │ ";h" :---------: home screen
 goto numberline
 
 :plant
