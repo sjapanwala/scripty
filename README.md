@@ -11,7 +11,7 @@
 1) Installing can either occur from Github or Google Drive or Use Terminal
 - Github [https://github.com/sjapanwala/scripty/blob/main/scripty.cmd]
 - (stale) Google Drive[https://drive.google.com/file/d/1aF_J9zwubAmO27N0MIjk8DOgE_kqTk1I/view]
-```cmd
+```pws
 start https://github.com/sjapanwala/scripty/archive/refs/heads/main.zip
 ```
 2) After unzipping the file/ adding it to downloads, if you dont already have the plant.scripty file, please download it. Please Drag and drop it into the same directory as "***Scripty.cmd***"
